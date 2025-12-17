@@ -2,8 +2,6 @@
 existential_paralysis.py
 - A Model of Radical Agnosticism and Mechanical Functioning -
 
-Based on the dialogue 'chat-with-gemini.docx'.
-
 Key Concepts:
 - The Double Track: The coexistence of efficient external functioning and 
   internal existential rejection.
